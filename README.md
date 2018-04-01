@@ -1,2 +1,0 @@
-# diemtran
-kimngoc
